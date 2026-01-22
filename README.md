@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning web development
 - 💡 Curious about code and technology
-- ⚡ Fun fact **I enjoy learning by building things 😄**
+- ⚡ Fun fact: **I spend 90% of my time fixing tiny bugs that make big problems disappear! 🐞✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,12 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,vue,php,laravel,mysql" alt="My Skills" />
 </p>
 
 ---
