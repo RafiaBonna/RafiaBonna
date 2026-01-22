@@ -1,9 +1,16 @@
+<p align="center">
+  <img src="banner.gif" alt="Rafia Bonna Banner" width="100%" />
+</p>
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Rafia Bonna</h1>
-<h3 align="center">A curious learner exploring web development</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafia+Bonna;A+curious+learner+exploring+web+development;I+enjoy+learning+by+building+things!)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rafiabonna&label=Profile%20views&color=0e75b6&style=flat" alt="rafiabonna" />
