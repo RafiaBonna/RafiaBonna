@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning web development
 - 💡 Curious about code and technology
-- ⚡ Fun fact: **I spend 90% of my time fixing tiny bugs that make big problems disappear! 🐞✨**
+- ⚡ Fun fact: **My favorite hobby is finding that one missing semicolon that ruined my whole day.🧐🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
