@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,vue,php,laravel,mysql" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,vue,php,laravel,mysql,git,postman" alt="My Skills" />
 </p>
 
 ---
